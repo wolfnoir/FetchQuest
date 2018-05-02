@@ -1,0 +1,15 @@
+#pane{
+    -fx-background-image: url("https://i.imgur.com/Rx71Z17.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1000 750;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+#map{
+    -fx-background-image: url("https://i.imgur.com/eaaCOtx.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 550 550;
+    -fx-background-position: center center; 
+	-fx-effect: dropshadow(three-pass-box, green, 30, 0.5, 0, 0);
+}
